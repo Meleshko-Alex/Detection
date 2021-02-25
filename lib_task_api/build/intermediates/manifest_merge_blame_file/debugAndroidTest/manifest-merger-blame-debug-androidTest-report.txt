@@ -1,0 +1,40 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.detection.tflite.test" >
+4
+5    <uses-sdk
+5-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:11:5-15:100
+10        android:name="androidx.test.runner.AndroidJUnitRunner"
+10-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:11:22-76
+11        android:functionalTest="false"
+11-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:13:22-53
+13        android:label="Tests for org.tensorflow.lite.examples.detection.tflite.test"
+13-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:15:22-98
+14        android:targetPackage="org.tensorflow.lite.examples.detection.tflite.test" />
+14-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:12:22-96
+15
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19
+20    <application
+20-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] /Users/alexandrmeleshko/.gradle/caches/transforms-2/files-2.1/1d275a553d9212e3db73c588f130be8d/core-1.1.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true" >
+22-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:8:9-60
+23-->/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger10241545190434430589.xml:8:23-57
+24    </application>
+25
+26</manifest>

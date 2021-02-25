@@ -1,0 +1,7 @@
+#Thu Feb 25 11:56:57 EET 2021
+base.1=/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/classes.dex
+path.1=classes.dex
+base.0=/Users/alexandrmeleshko/Documents/TestProjects/examples/lite/examples/object_detection/android/lib_task_api/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
